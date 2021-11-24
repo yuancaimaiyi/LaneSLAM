@@ -1,2 +1,2 @@
 # LaneSLAM
-Semantic SLAM which ism focus on lane.
+Semantic SLAM for Road Lane
